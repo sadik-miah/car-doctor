@@ -1,0 +1,18 @@
+/* navbar */
+.i-color {
+    color: gray;
+}
+
+.banner-btn:hover {
+    background-color: #FF3811;
+    color: white;
+}
+
+.dom-mb {
+    margin-bottom: 200px;
+}
+
+.img-position {
+    margin-top: 50px;
+    margin-right: 100px;
+}
